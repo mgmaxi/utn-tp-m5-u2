@@ -11,3 +11,7 @@ In the project directory, you can run: `npm start`
 📷 <b> Preview </b> 
 
 <img src="public/assets/preview.png" width="900" height="500">
+
+📋 <b> Task </b> 
+
+<img src="public/assets/task.png" width="900" height="500">
