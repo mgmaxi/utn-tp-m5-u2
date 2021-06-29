@@ -1,5 +1,6 @@
 {
-  "name": "tp-m5-u2",
+  "main": "public/index.html",
+  "name": "tp-u2-m5",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
